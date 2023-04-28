@@ -9,8 +9,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
@@ -25,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/levinbaenninger/3-column-card-component)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://3-column-card-levinbaenninger.netlify.app/)
 
 ## My process
 
@@ -35,30 +33,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
 ## Author
 
