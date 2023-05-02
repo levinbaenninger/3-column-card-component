@@ -73,6 +73,10 @@ body {
 	line-height: 1.7;
 }
 
+.text-container {
+	margin-bottom: 3em;
+}
+
 .btn {
 	width: 70%;
 	height: 4em;
@@ -81,7 +85,6 @@ body {
 	border-radius: 2.5em;
 	font-family: 'Lexend Deca';
 	font-size: 1rem;
-	margin-top: 2em;
 }
 
 #orange {
